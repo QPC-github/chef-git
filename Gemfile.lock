@@ -56,7 +56,7 @@ GEM
     highline (1.7.8)
     iniparse (1.4.2)
     ipaddress (0.8.3)
-    json (1.8.3)
+    json (1.8.6)
     libyajl2 (1.2.0)
     method_source (0.8.2)
     mixlib-archive (0.2.0)
@@ -152,4 +152,4 @@ DEPENDENCIES
   simplecov (= 0.11.0)
 
 BUNDLED WITH
-   1.13.6
+   2.2.22
